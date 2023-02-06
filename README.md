@@ -1,7 +1,7 @@
 # Steam_tests
 
-Test Cases:
-===================1=====================
+Test Cases:<br/>
+===================1=====================<br/>
 Step 1: Navigate to main page	Main   
   Expected: page is open
   
