@@ -2,10 +2,10 @@
 
 Test Cases:<br/>
 ===================1=====================<br/>
-Step 1: Navigate to main page	Main   
-  Expected: page is open
+Step 1: Navigate to main page	Main<br/>   
+  Expected: page is open<br/>
   
-Step 2:	Scroll and open Privacy Policy	
+Step 2:	Scroll and open Privacy Policy<br/>	
   Expected:
     Privacy Policy page is opened in new tab
     Switch language elements list displayed.
