@@ -1,0 +1,26 @@
+{
+  "urlMainPage": "",
+  "languages_testCase1": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Italian",
+    "Russian",
+    "Japanese",
+    "Portuguese",
+    "Brazilian"
+  ],
+  "SearchCommunityMarketModel_testCase3": {
+    "gameId": "app_option_570",
+    "heroValue": "tag_npc_dota_hero_life_stealer",
+    "rarityId": "tag_570_Rarity_Rarity_Immortal",
+    "SearchText": "golden",
+    "FilterList": [
+      "Dota 2",
+      "Lifestealer",
+      "Immortal",
+      "\"golden\""
+    ]
+  }
+}
